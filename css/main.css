@@ -1,7 +1,11 @@
 /* Decent Defaults */
-
-img,
-video {
-  width: 100%;
-  height: auto;
+article {
+  font-family: Arial, Helvetica, sans-serif;
+  float: inline-start;
+  justify-content: center;
+}
+section {
+  float: left;
+  border-radius: 10px;
+  padding: ;
 }
