@@ -1,5 +1,5 @@
 [How to use this template](./.github/template/README.md)
 
-# Project Name
+# Frontend Mentor I
 
-A brief description about your project.
+Frontend Mentor Card project.
