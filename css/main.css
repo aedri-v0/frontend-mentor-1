@@ -6,21 +6,21 @@ article {
 }
 section {
   float: left;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   justify-content: center;
 }
 p {
   margin: 5%;
-  font-size: 20px;
+  font-size: 1.25rem;
   word-spacing: 0.1rem;
-  padding: 0px 20px 0px;
+  padding: 0rem 1.25rem 0rem;
   line-height: 2rem;
   font-family: "Lexend Deca", sans-serif;
 }
 h4 {
-  font-size: 45px;
+  font-size: 2.8125rem;
   padding-bottom: -1%;
-  padding-left: 40px;
+  padding-left: 2.5rem;
   font-family: "Big Shoulders Display", cursive;
 }
 button {
@@ -28,12 +28,12 @@ button {
   border: none;
   text-align: center;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-  border-radius: 40px;
+  border-radius: 2.5rem;
   margin-left: 10%;
   margin-top: 8%;
 }
